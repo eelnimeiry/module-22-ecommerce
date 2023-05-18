@@ -1,6 +1,6 @@
 # Getting Started with Module 22 Redux
 ##live link
-module22redux.surge.sh
+[module22redux.surge.sh](http://module22redux.surge.sh/)
 
 ## Available Scripts
 
